@@ -1,3 +1,5 @@
+# Detached fork of https://github.com/nshen/vite-plugin-wasm-pack
+
 <p align="center">
   <img width="404" src="./banner.png" alt="vite + wasm pic"/>
 </p>
